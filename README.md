@@ -1,1 +1,2 @@
-# Hello my name is Jimothy
+# Hello my name is Jim
+and I code random stuff sometimes
